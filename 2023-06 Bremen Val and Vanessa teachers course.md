@@ -1,4 +1,6 @@
+---
 theme: minima
+---
 # Recap structured
 
 ## History etc
