@@ -253,29 +253,3 @@ Exercise when he breaks the frame and follower is fixing her frame by reposition
 > It's not about controlling the follower, but giving her invitations. 
 
 > Hips movement and connection to block of sexual energy in Europe. Trying to research it and figure out how to connect it into some kind of workshop or trying to put some energy relaxement into classes. 
-
-What we miss in Stolárna?
-Showing the teacher how to teach different elements but also the concepts (frame tension, waiting of the follower, leading with body, body waves, stepping)
-Some kind of curiculum - when is good to teach what. What are the main elements we want students to know. Also common mistakes and how to work with them.
-
-
-# Money
-Co platila Klárka
-14 euro jídlo na benzínce 
-
-
-# To pack
-- [x] taška jako poděkování za ubytování ✅ 2023-06-30
-
-
-
-# Metadata
-type:: event
-specification:: zouk event, teachers training
-date_start:: 2023-06-30
-date_finish:: 2023-07-03
-location:: [[Germany, Bremen]]
-shared_with:: [[Klárka]], [[Baui]], [[Fernando]]
-
-**Zouk teaching**
-teacher:: [[Val and Vanessa]]
